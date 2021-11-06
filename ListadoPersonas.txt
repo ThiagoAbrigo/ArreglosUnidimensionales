@@ -1,0 +1,35 @@
+Nombre: jesus
+Genero: Masculino
+Edad: 4
+Etapa: ninio
+===========================
+Nombre: Santiago
+Genero: Masculino
+Edad: 19
+Etapa: Joven
+===========================
+Nombre: Ileana
+Genero: Femenino
+Edad: 49
+Etapa: Adulto
+===========================
+Nombre: asd
+Genero: Masculino
+Edad: 56
+Etapa: Tercera Edad
+===========================
+Nombre: Daniel
+Genero: Masculino
+Edad: 3
+Etapa: ninio
+===========================
+Nombre: Steven
+Genero: Masculino
+Edad: 20
+Etapa: Joven
+===========================
+Nombre: Daniela
+Genero: Femenino
+Edad: 19
+Etapa: Joven
+===========================
