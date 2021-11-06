@@ -23,7 +23,7 @@ public class Person {
         this.genero = genero;
         this.fechaNacimiento = fechaNacimiento;
         this.edad = edad;
-        //ccc
+        //cccc
     }
     
     public String getName() {
